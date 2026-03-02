@@ -1,2 +1,2 @@
-# UltraEdit-Navbar-Clone
-A clean navigation bar inspired by the UltraEdit website, built using HTML5 and CSS3 with Flexbox for layout alignment.
+This project is a frontend practice project where I recreated the UltraEdit website navbar using HTML and CSS.
+The goal was to improve my understanding of Flexbox, spacing, alignment, and UI replication from real-world websites.
